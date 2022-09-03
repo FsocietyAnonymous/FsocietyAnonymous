@@ -1,0 +1,38 @@
+### INSTALLATION
+
+1: Open your kali linux operating system and use
+the following command to install the tool from GITHUB.
+
+### git clone https://github.com/Manisso/fsociety.git
+2: the tool has been downloaded and now movie it
+to the directory using the following command.
+
+### cd fsociety
+### ls
+3: Now install the tool using the following
+command.
+### ./install.sh
+4: All the dependencies have been downloaded
+and now run the tool using the following command.
+### python2 ./fsociety.py
+
+
+### usage 
+Example 1: Usage the Fsociety framework to 
+perform reconnaissance in a domain.
+
+1: 
+[1] after that,select nmap
+Enter the ip address of target.
+[2] Type 2 for port scan.
+
+
+### The framework has started nmap and this is
+how you can also perform on your target ip address.
+
+Example 2: Use the fsociety framework tool to 
+find the ip address of a domain.
+
+Select the for ip tool in the framework, the enter
+The host name. The tool will give you the ip address
+Of the host.
